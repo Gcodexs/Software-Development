@@ -1,3 +1,6 @@
+
+<img width="1584" height="396" alt="CODE" src="https://github.com/user-attachments/assets/f6bccc7e-404e-4955-b644-d036530588b8" />
+
 **Developer Portfolio**
 
 Welcome to my software development portfolio. This repository serves as a central hub for my projects, showcasing my technical skills, practical programming experience, and continuous learning across different technologies
