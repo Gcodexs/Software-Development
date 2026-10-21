@@ -7,6 +7,6 @@ Welcome to my software development portfolio. This repository serves as a centra
 
 * 📁[Evolution Programming](https://github.com/Gcodexs/Evolution-programming.git) - Evolution Programming - A comprehensive project exploring advanced programming concepts, design patterns, and algorithmic problem-solving in C# and .NET.
 
-* 📁[DotNet-Financial-Tracker](https://github.com/Gcodexs/DotNet-Financial-Tracker.git) 
+* 📁[DotNet-Financial-Tracker](https://github.com/Gcodexs/DotNet-Financial-Tracker1.git) 
 Production-ready Full-Stack Financial Dashboard built with React & .NET 10 Web API. Features interactive real-time analytics with Recharts, seamless EF Core data persistence, and a premium SaaS-style responsive UI.
 
